@@ -116,21 +116,6 @@
       "id": 3
     },
     {
-      "nome": "Rosangela",
-      "carne": "Picanha",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Em produção",
-      "id": 6
-    },
-    {
       "nome": "Burgão do Zezão",
       "carne": "Picanha",
       "pao": "Italiano Branco",
@@ -141,6 +126,17 @@
       ],
       "status": "Solicitado",
       "id": 7
+    },
+    {
+      "nome": "José",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 8
     }
   ]
 }

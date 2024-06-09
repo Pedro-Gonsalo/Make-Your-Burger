@@ -15,3 +15,9 @@
     }
   }
 </script>
+
+<style scoped>
+.main-container{
+  min-height: calc(100vh - 280px);
+}
+</style>

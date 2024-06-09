@@ -31,6 +31,7 @@
   }
 
   .main-container {
+    overflow-y: auto;
     margin: 50px;
     min-height: 250px; /* altura mínima */
   }

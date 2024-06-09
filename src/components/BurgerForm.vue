@@ -104,7 +104,7 @@
             this.nome = "";
             this.carne = "";
             this.pao = "";
-            this.opcionais = "";
+            this.opcionais = [];
         }
     },
     // Quando o componente for montado
